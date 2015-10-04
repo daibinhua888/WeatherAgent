@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherParser", "WeatherParser\WeatherParser.csproj", "{D4720959-58F5-44DC-8089-36B8DC209112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherParserTests", "WeatherParserTests\WeatherParserTests.csproj", "{B27E42D2-C9F5-45E6-B47A-F2083F756FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{7D1551B0-A189-4718-9049-543023429B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4720959-58F5-44DC-8089-36B8DC209112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4720959-58F5-44DC-8089-36B8DC209112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4720959-58F5-44DC-8089-36B8DC209112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4720959-58F5-44DC-8089-36B8DC209112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27E42D2-C9F5-45E6-B47A-F2083F756FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27E42D2-C9F5-45E6-B47A-F2083F756FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27E42D2-C9F5-45E6-B47A-F2083F756FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27E42D2-C9F5-45E6-B47A-F2083F756FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1551B0-A189-4718-9049-543023429B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1551B0-A189-4718-9049-543023429B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1551B0-A189-4718-9049-543023429B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1551B0-A189-4718-9049-543023429B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

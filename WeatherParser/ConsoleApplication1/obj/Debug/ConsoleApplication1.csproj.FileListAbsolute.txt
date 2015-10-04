@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\WeatherParser.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\WeatherParser.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleLexer.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleParser.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleListener.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleBaseListener.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleVisitor.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleBaseVisitor.cs

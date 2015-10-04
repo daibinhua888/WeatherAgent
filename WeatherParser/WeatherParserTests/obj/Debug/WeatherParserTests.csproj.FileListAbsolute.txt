@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\WeatherParserTests.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\WeatherParserTests.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\WeatherParser.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\WeatherParser.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\obj\Debug\WeatherParserTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\obj\Debug\WeatherParserTests.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParserTests\obj\Debug\WeatherParserTests.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\bin\Debug\WeatherParser.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\bin\Debug\WeatherParser.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleLexer.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleParser.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleListener.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleBaseListener.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleVisitor.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherRuleBaseVisitor.cs
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherParser.dll
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherParser.pdb
+C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csprojResolveAssemblyReference.cache

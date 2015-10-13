@@ -8,3 +8,6 @@ C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\Cons
 C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Documents\GitHub\WeatherAgent\WeatherParser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Administrator\Documents\GitHub\WeatherAgent\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Documents\GitHub\WeatherAgent\WeatherParser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

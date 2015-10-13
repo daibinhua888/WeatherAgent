@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:\Users\Administrator\Documents\GitHub\SplitTableEngine\Code\WeatherParser\WeatherParser\g4\WeatherRule.g4 by ANTLR 4.5-SNAPSHOT
+// Generated from C:\Users\Administrator\Documents\GitHub\WeatherAgent\WeatherParser\WeatherParser\g4\WeatherRule.g4 by ANTLR 4.5-SNAPSHOT
 
 // Unreachable code detected
 #pragma warning disable 0162
